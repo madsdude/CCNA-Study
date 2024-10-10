@@ -48,4 +48,9 @@
 - Same-layer interaction beskriver interaktion mellem samme lag på to forskellige værter.
 - Enkapsuleringsproces: En frame består af tre headers (lag 4, 3, 2) og en trailer (lag 2).
 
+![Skærmbillede 2024-10-10 131542](https://github.com/user-attachments/assets/7d60d206-2ad3-4d9b-8b5c-3c53affb2432)
+
+![Skærmbillede 2024-10-10 131659](https://github.com/user-attachments/assets/d0f6f32b-ea7a-4c42-8cc2-6c05389cbfb9)
+
+
 Disse noter dækker de vigtigste koncepter i videoen. Skal jeg tilføje eller uddybe noget bestemt?
