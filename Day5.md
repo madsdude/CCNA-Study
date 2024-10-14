@@ -40,15 +40,12 @@
 - Switche lærer dynamisk MAC-adresser og bruger MAC-adressetabellen til at videresende rammer effektivt.
 - Ukendte unicast-rammer oversvømmes til alle porte, indtil switchen lærer destinationens MAC-adresse.
 
-![Skærmbillede 2024-10-14 141346](https://github.com/user-attachments/assets/4535ca84-5115-49af-8fd3-edd175390201)
-
-![Skærmbillede 2024-10-14 141303](https://github.com/user-attachments/assets/d6f96ef4-7e60-40d9-a8a2-7402ca952da1)
-
-
-
-
-
 # Frame Flooding og Forwarding:
 
 - Ukendte unicast-rammer bliver floodet til alle porte undtagen den, hvor rammen kom fra.
 - Når MAC-adresser er lært, videresendes rammer til den rigtige port.
+
+
+![Skærmbillede 2024-10-14 141346](https://github.com/user-attachments/assets/4535ca84-5115-49af-8fd3-edd175390201)
+
+![Skærmbillede 2024-10-14 141303](https://github.com/user-attachments/assets/d6f96ef4-7e60-40d9-a8a2-7402ca952da1)
