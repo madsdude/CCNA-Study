@@ -1,7 +1,3 @@
-# Kursusintroduktion:
-
-- Jeremy's IT Lab tilbyder en komplet CCNA-kursus, 100% gratis.
-- Quiz og Anki flashcards er inkluderet for at styrke læringen.
 
 # Emneoversigt:
 
