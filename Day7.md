@@ -81,3 +81,11 @@ The network address is the first address in the range, while the broadcast addre
 - We covered binary and dotted decimal representations of IPv4 addresses.
 - You learned about different address classes and special ranges like the loopback address.
 - We also discussed netmasks and how they relate to prefix lengths.
+
+![Skærmbillede 2024-10-16 144002](https://github.com/user-attachments/assets/1d84269f-2c31-42ba-97af-bbb07e2a7291)
+
+![Skærmbillede 2024-10-16 144018](https://github.com/user-attachments/assets/928d0024-c471-4507-84e6-4840b540b13c)
+
+![Skærmbillede 2024-10-16 144112](https://github.com/user-attachments/assets/8b24ae0f-0b78-40bc-b2bb-6eb5d09e5990)
+
+
