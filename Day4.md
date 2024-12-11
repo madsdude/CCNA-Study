@@ -23,9 +23,9 @@
 
 # Sikkerhed:
 
-- **Enable password**: Beskytter adgang til Privileged EXEC Mode med en adgangskode.
-- **Enable secret**: En mere sikker adgangskode, der er automatisk krypteret med MD5.
-- **Service password-encryption**: Krypterer adgangskoder, men med en svagere type kryptering end MD5.
+- ``Enable password``: Beskytter adgang til Privileged EXEC Mode med en adgangskode.
+- ``Enable secret``: En mere sikker adgangskode, der er automatisk krypteret med MD5.
+- ``Service password-encryption``: Krypterer adgangskoder, men med en svagere type kryptering end MD5.
 
 # Konfigurationsfiler:
 
