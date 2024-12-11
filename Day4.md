@@ -29,9 +29,9 @@
 
 # Konfigurationsfiler:
 
-- **Running-config**: Den aktuelle, aktive konfiguration på enheden.
-- **Startup-config**: Konfigurationen, der indlæses, når enheden genstartes.
-  - Kommandoer til at gemme konfiguration: **write**, **write memory**, eller **copy running-config startup-config**.
+- ``Running-config``: Den aktuelle, aktive konfiguration på enheden.
+- ``Startup-config``: Konfigurationen, der indlæses, når enheden genstartes.
+  - Kommandoer til at gemme konfiguration: ``write``, ``write memory``, eller ``copy running-config startup-config``.
 
 # Annullering af Kommandoer:
 
@@ -39,9 +39,9 @@
 
 # Opsummering af Vigtige Kommandoer:
 
-- **enable**: For at komme i Privileged EXEC Mode.
-- **configure terminal (conf t)**: For at komme i Global Configuration Mode.
-- **show running-config**: Viser den aktuelle konfiguration.
-- **show startup-config**: Viser den gemte opstartskonfiguration.
+- ``enable``: For at komme i Privileged EXEC Mode.
+- ``configure terminal (conf t)``: For at komme i Global Configuration Mode.
+- ``show running-config``: Viser den aktuelle konfiguration.
+- ``show startup-config``: Viser den gemte opstartskonfiguration.
 
 Disse notater giver en oversigt over, hvad der blev gennemgået i lektionen.
